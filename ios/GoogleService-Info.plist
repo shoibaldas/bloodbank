@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>972327431590-f62bgip6tog6dg0av2u27bf0u2r94cel.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.972327431590-f62bgip6tog6dg0av2u27bf0u2r94cel</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>972327431590-4dd6ejmh1lbr28rql197c0tp6sulbuum.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbpAAkSUkCjGWkduLc0dtz--3RbEY2KmQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>972327431590</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.noob.bloodbank</string>
+	<key>PROJECT_ID</key>
+	<string>blood-book-b7714</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blood-book-b7714.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:972327431590:ios:de167226ed98828a507367</string>
+	<key>DATABASE_URL</key>
+	<string>https://blood-book-b7714.firebaseio.com</string>
+</dict>
+</plist>
